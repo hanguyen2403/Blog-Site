@@ -1,0 +1,4 @@
+.app-body{
+    min-height: 85vh; /* 85% of the viewport height */
+    margin-top: 150px ;
+}
